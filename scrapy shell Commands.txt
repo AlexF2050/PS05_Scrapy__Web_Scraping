@@ -1,0 +1,13 @@
+Вот перевод описания к командам на русский язык:
+
+```
+[s] Доступные объекты Scrapy:
+[s]   scrapy     модуль scrapy (содержит scrapy.Request, scrapy.Selector и т.д.)
+[s]   crawler    <scrapy.crawler.Crawler объект по адресу 0x0000020228C7C2F0>
+[s]   item       {}
+[s]   settings   <scrapy.settings.Settings объект по адресу 0x0000020228BF8B90>
+[s] Полезные сокращения:
+[s]   fetch(url[, redirect=True]) Получить URL и обновить локальные объекты (по умолчанию следуются перенаправления)
+[s]   fetch(req)                  Получить scrapy.Request и обновить локальные объекты
+[s]   shelp()           Помощь по оболочке (вывести эту помощь)
+[s]   view(response)    Просмотреть ответ в браузере
