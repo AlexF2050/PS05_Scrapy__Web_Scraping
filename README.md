@@ -1,6 +1,9 @@
 # PS05_Scrapy__Web_Scraping
  PS05. Введение в Scrapy. Web Scraping
 
+[divannewpars.py](divanpars/divanpars/spiders/divannewpars.py)
+
+
 ![Save_File_Terminal.png](Save_File_Terminal.png)
 
 ![1 Абсолютный путь.png](Абсолютный путь.png)
